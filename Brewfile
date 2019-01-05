@@ -13,6 +13,8 @@ brew 'wget'
 brew 'youtube-dl'
 brew 'hub'
 brew 'dart'
+brew 'node'
+brew 'watchman'
 
 cask 'atom'
 cask 'firefox'
