@@ -14,6 +14,7 @@ brew 'youtube-dl'
 brew 'hub'
 brew 'dart'
 brew 'node'
+brew 'npm'
 brew 'watchman'
 
 cask 'atom'
