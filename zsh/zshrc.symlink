@@ -149,3 +149,7 @@ test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell
 
 # Path
 export PATH=~/flutter/bin:~/Library/Android/sdk/platform-tools:~/.pub-cache/bin:$PATH
+
+# React Native
+export ANDROID_HOME=$HOME/Library/Android/sdk
+export PATH=$ANDROID_HOME/emulator:$ANDROID_HOME/tools:$ANDROID_HOME/tools/bin:$ANDROID_HOME/platform-tools:$PATH
