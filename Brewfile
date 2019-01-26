@@ -16,6 +16,7 @@ brew 'dart'
 brew 'node'
 brew 'npm'
 brew 'watchman'
+brew 'httpie'
 
 cask 'atom'
 cask 'firefox'
