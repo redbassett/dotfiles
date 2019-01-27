@@ -35,3 +35,5 @@ cask 'font-fira-code'
 cask 'graphql-playground'
 cask 'keyboard-maestro'
 cask 'aware'
+cask 'quicklook-json'
+
