@@ -36,4 +36,4 @@ cask 'graphql-playground'
 cask 'keyboard-maestro'
 cask 'aware'
 cask 'quicklook-json'
-
+cask 'realm-studio'
