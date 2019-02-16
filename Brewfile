@@ -37,3 +37,5 @@ cask 'keyboard-maestro'
 cask 'aware'
 cask 'quicklook-json'
 cask 'realm-studio'
+cask 'kap'
+
