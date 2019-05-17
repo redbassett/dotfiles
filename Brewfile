@@ -38,4 +38,4 @@ cask 'aware'
 cask 'quicklook-json'
 cask 'realm-studio'
 cask 'kap'
-
+cask 'visual-studio-code'
