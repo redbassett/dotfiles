@@ -153,3 +153,7 @@ export PATH=~/flutter/bin:~/Library/Android/sdk/platform-tools:~/.pub-cache/bin:
 # React Native
 export ANDROID_HOME=$HOME/Library/Android/sdk
 export PATH=$ANDROID_HOME/emulator:$ANDROID_HOME/tools:$ANDROID_HOME/tools/bin:$ANDROID_HOME/platform-tools:$PATH
+
+
+export PATH="/usr/local/opt/ruby/bin:$PATH"
+eval "$(rbenv init -)"
