@@ -6,3 +6,5 @@
 	over-here = pull
 	outta-here = push
 	co = checkout
+[commit]
+	template = ~/.gitmessage
