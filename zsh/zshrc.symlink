@@ -157,3 +157,10 @@ export PATH=$ANDROID_HOME/emulator:$ANDROID_HOME/tools:$ANDROID_HOME/tools/bin:$
 
 export PATH="/usr/local/opt/ruby/bin:$PATH"
 eval "$(rbenv init -)"
+
+# Set Rails config editor
+export EDITOR="nano"
+
+# Homebrew path stuff
+export PATH=/usr/local/sbin:$PATH
+
