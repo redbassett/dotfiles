@@ -8,3 +8,5 @@
 	co = checkout
 [commit]
 	template = ~/.gitmessage
+[init]
+	defaultBranch = main
