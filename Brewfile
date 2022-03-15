@@ -46,3 +46,5 @@ cask 'kap'
 cask 'visual-studio-code'
 cask 'ngrok'
 cask 'lofi'
+cask '1password`
+cask '1password-cli'
