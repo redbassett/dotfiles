@@ -50,3 +50,5 @@ cask '1password`
 cask '1password-cli'
 cask 'cyberduck'
 cask 'raycast'
+cask 'signal'
+casl 'keycastr'
