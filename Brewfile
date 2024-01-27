@@ -2,7 +2,7 @@ cask_args appdir: '/Applications'
 
 tap 'homebrew/bundle'
 tap 'dart-lang/dart'
-tap 'caskroom/cask-fonts'
+tap 'homebrew/cask-fonts'
 tap 'heroku/brew'
 tap 'teamookla/speedtest'
 tap 'superfly/tap'
