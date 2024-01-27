@@ -23,7 +23,7 @@ brew 'heroku'
 brew 'speedtest'
 brew 'superfly/tap/flyctl'
 
-cask 'atom'
+cask 'visual-studio-code'
 cask 'firefox'
 cask 'slack'
 cask 'vlc'
