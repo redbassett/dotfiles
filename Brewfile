@@ -49,3 +49,5 @@ cask 'signal'
 cask 'keycastr'
 cask 'opal-composer'
 cask 'milanote'
+cask 'chrysalis'
+
