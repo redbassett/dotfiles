@@ -54,4 +54,4 @@ cask 'obsidian'
 cask 'affinity-photo'
 cask 'affinity-designer'
 cask 'affinity-publisher'
-
+cask 'blender'
