@@ -56,4 +56,4 @@ cask 'affinity-designer'
 cask 'affinity-publisher'
 cask 'blender'
 cask 'qlab'
-
+cask 'audacity'
