@@ -167,3 +167,10 @@ if [ -z "$INTELLIJ_ENVIRONMENT_READER" ]; then
   # Homebrew path stuff
   export PATH=/usr/local/sbin:$PATH
 fi
+
+###########################
+# Add UTF-8 Shell Support #
+###########################
+
+export LANG=en_US.UTF-8
+export LC_ALL=en_US.UTF-8
