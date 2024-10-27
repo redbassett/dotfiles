@@ -22,6 +22,7 @@ brew 'httpie'
 brew 'heroku'
 brew 'speedtest'
 brew 'superfly/tap/flyctl'
+brew 'cowsay-org/cowsay/cowsay-org'
 
 cask 'visual-studio-code'
 cask 'firefox'
