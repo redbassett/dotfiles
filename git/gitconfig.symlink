@@ -2,6 +2,7 @@
 	path = ~/.gitconfig.local
 [core]
 	editor = nano
+	autocrlf = input
 [alias]
 	over-here = pull
 	outta-here = push
