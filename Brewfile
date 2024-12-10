@@ -59,3 +59,5 @@ cask 'blender'
 cask 'qlab'
 cask 'audacity'
 cask 'logi-options+'
+cask 'private-internet-access'
+
