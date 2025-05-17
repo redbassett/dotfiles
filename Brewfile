@@ -62,3 +62,5 @@ cask 'logi-options+'
 cask 'private-internet-access'
 cask 'qflipper'
 cask 'linearmouse'
+cask 'deskpad'
+
